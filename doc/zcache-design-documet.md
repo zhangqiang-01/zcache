@@ -27,7 +27,6 @@ zcache优点:
 - 业务开发简单，利用nginx插件、nginx lua进行业务开发。
 - 后续可考虑扩展nginx lua, 让nginx lua参与到zcache_content_handler的处理当中。
 
-
 ## zcache设计
 
 ### 配置设计
